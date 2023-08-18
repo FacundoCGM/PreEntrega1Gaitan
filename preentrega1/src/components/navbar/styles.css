@@ -11,9 +11,11 @@
 
 .navButtons {
     margin-right: 20px;
+    color: black;
 }
 
 .navButtons:hover {
     background-color: rgba(202, 1, 58, 0.714);;
+    color: black;
 }
 
